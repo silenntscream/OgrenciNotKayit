@@ -1,0 +1,26 @@
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.Form1.resources
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.Properties.Resources.resources
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\bin\Debug\Ogrenci_Not_Kayıt.exe.config
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\bin\Debug\Ogrenci_Not_Kayıt.exe
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\bin\Debug\Ogrenci_Not_Kayıt.pdb
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.exe
+C:\Users\pc\Desktop\C# Dersleri\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.pdb
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\bin\Debug\Ogrenci_Not_Kayıt.exe.config
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\bin\Debug\Ogrenci_Not_Kayıt.exe
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\bin\Debug\Ogrenci_Not_Kayıt.pdb
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.Form1.resources
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.exe
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.pdb
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.FrmOgretmen.resources
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.FrmDuyuruOlustur.resources
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.FrmDuyuruListesi.resources
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.FrmMesajlar.resources
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.FrmOgrenci.resources
+C:\Users\Fatih\source\repos\Ogrenci_Not_Kayıt\Ogrenci_Not_Kayıt\obj\Debug\Ogrenci_Not_Kayıt.exe.config
